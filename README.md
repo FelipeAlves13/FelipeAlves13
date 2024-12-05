@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Estudando o basico do desenvolvimento Web (HTML, CSS e JS)
+- 🌱 Dev FullStack da Valorian (Em constante aprendizado)
 - 😄 Pronomes: ele/dele
 
 <div>
