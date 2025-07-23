@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/FelipeAlves13">
-  <img  width="47%" style="paddin-bottom: 20em;" src="https://github-readme-stats.vercel.app/api?username=FelipeAlves13&show_icons=true&theme=dracula&count_private=true">
+  <img  width="47%" style="paddin-bottom: 20em;" src="https://github-readme-stats.vercel.app/api?username=FelipeAlves13&show_icons=true&theme=dracula">
   <img heigth="100em" width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlves13&layout=compact&theme=dracula&hide_rank=true">
+
 </div>
   
  <div style="display: inline-block;"><br>
